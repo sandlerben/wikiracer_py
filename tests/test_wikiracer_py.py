@@ -1,4 +1,4 @@
-from wikiracer_py import __version__
+from wikiracer import __version__
 
 
 def test_version():
